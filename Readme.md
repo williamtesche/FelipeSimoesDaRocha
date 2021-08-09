@@ -1,12 +1,10 @@
 # Hi, I'm Felipe Simões da Rocha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-## I'm a, Front-End web developer.
+## I'm a estudant, Front-End web developer.
 
 - 🌱 I’m currently learning Everything.
 - 👯 I’m looking to collaborate with other developers. 
-- 🥅 2021 Goals: Learn to build big projects using more tools and .
-
-### 👦 Stats:
+- 🥅 2021 Goals: Learn to build big projects using more tools.
 
 ###  👨‍💻Connect with me
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
