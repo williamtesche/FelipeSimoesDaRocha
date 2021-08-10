@@ -17,7 +17,7 @@
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.instagram.com/fe_lrocha/">
-  <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align = "left" width = "26px" src = "https://br.freepik.com/vetores-gratis/instagram-icone-novo_954290.htm" />
 </a>
 <a href=" https://www.facebook.com/FeliipeSimoesDaRocha/">
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
