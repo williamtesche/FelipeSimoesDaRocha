@@ -19,7 +19,7 @@
 <a href="https://www.instagram.com/fe_lrocha/">
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
-<a href=" https://www.facebook.com/FeliipeSimoesDaRocha/">
+<a href="https://www.facebook.com/FeliipeSimoesDaRocha/">
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
