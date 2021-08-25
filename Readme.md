@@ -17,9 +17,12 @@
 </a>
 <a href="https://www.facebook.com/FeliipeSimoesDaRocha/">
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-</a><br>
+</a>
+<br>
   🌱 I’m currently learning Everything.
+  
   👯 I’m looking to collaborate with other developers. 
+  
   🥅 2021 Goals: Learn to build big projects using more tools.
 
 <br>
