@@ -3,9 +3,9 @@
 
 
 
-[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://olha.la/ilovecode)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulorogerio/)
+[![Blog](https://felipesimoesdarocha.netlify.app/)
+
+[![Linkedin](https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/)
 
 
   🌱 I’m currently learning Everything.
