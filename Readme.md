@@ -2,6 +2,18 @@
 
 # Felipe Simões da Rocha 
 
+
+[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://olha.la/ilovecode)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulorogerio/)
+
+
+
+![GitHub followers](https://img.shields.io/github/followers/pauloanalista?style=flat-square)
+![Twitter Follow](https://img.shields.io/twitter/follow/I_Love_Code?style=flat-square)
+
+<br><br>
+
 <br>
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
   <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
