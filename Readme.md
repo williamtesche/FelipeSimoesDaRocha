@@ -17,7 +17,7 @@
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a>
 
-<br />
+<br>
 
 
 
@@ -27,7 +27,7 @@
   
   🥅 2021 Goals: Learn to build big projects using more tools.
 
-<br><br/>
+<br>
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools: </h3>
