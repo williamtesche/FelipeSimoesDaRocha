@@ -1,6 +1,7 @@
 <img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
 # Felipe Simões da Rocha 
 
+<br><br/>
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
   <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
