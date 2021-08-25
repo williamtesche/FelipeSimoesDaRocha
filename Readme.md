@@ -21,13 +21,14 @@
 
 <br>
 <br/>
+<br>
   🌱 I’m currently learning Everything.
   
   👯 I’m looking to collaborate with other developers. 
   
   🥅 2021 Goals: Learn to build big projects using more tools.
 
-<br>
+<br/>
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools: </h3>
