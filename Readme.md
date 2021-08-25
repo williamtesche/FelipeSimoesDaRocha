@@ -9,7 +9,9 @@
 
 
   🌱 I’m currently learning Everything.
+  
   👯 I’m looking to collaborate with other developers. 
+  
   🥅 2021 Goals: Learn to build big projects using more tools.
 
 ###  👨‍💻Connect with me
