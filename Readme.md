@@ -1,5 +1,4 @@
 <img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
-
 # Felipe Simões da Rocha 
 
 <br><br/>
