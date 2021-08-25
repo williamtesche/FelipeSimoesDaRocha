@@ -1,6 +1,11 @@
 <img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
-# Felipe Simões da Rocha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+# Felipe Simões da Rocha 
 
+
+
+[![Blog](https://img.shields.io/badge/Blog-blue.svg?style=for-the-badge&logo=wordpress)](https://olha.la/ilovecode)
+[![Youtube](https://img.shields.io/badge/Youtube-red.svg?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UChoveUE94dFSAPfPiJhFsew)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paulorogerio/)
 
 
 - 🌱 I’m currently learning Everything.
@@ -52,3 +57,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
 
 
 
+## I'm a estudant, Front-End web developer.
