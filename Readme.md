@@ -2,7 +2,7 @@
 
 # Felipe Simões da Rocha 
 
-<br><br/>
+<br>
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
   <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,11 +18,8 @@
 <a href="https://www.facebook.com/FeliipeSimoesDaRocha/">
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
 </a><br>
-<br/>
   🌱 I’m currently learning Everything.
-  
   👯 I’m looking to collaborate with other developers. 
-  
   🥅 2021 Goals: Learn to build big projects using more tools.
 
 <br>
