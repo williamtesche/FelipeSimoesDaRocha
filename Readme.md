@@ -1,4 +1,5 @@
 <img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
+
 # Felipe Simões da Rocha 
 
 <br><br/>
@@ -16,13 +17,8 @@
 </a>
 <a href="https://www.facebook.com/FeliipeSimoesDaRocha/">
   <img align = "left" width = "26px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />
-</a>
-
-<br>
+</a><br>
 <br/>
-
-
-
   🌱 I’m currently learning Everything.
   
   👯 I’m looking to collaborate with other developers. 
