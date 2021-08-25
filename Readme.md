@@ -14,7 +14,7 @@
   
   🥅 2021 Goals: Learn to build big projects using more tools.
 
-
+<br><br/>
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
   <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
