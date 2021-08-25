@@ -1,20 +1,6 @@
 <img align="left" src="https://i2.wp.com/ilovecode.com.br/wp-content/uploads/2020/03/post_ok.gif?fit=200%2C209&ssl=1" />
 # Felipe Simões da Rocha 
 
-
-
-[![Blog](https://felipesimoesdarocha.netlify.app/)
-
-[![Linkedin](https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/)
-
-
-  🌱 I’m currently learning Everything.
-  
-  👯 I’m looking to collaborate with other developers. 
-  
-  🥅 2021 Goals: Learn to build big projects using more tools.
-
-<br><br/>
 <a href="https://www.linkedin.com/in/felipe-sim%C3%B5es-da-rocha-980498214/">
   <img align = "left" width = "24px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -32,6 +18,16 @@
 </a>
 
 <br />
+
+
+
+  🌱 I’m currently learning Everything.
+  
+  👯 I’m looking to collaborate with other developers. 
+  
+  🥅 2021 Goals: Learn to build big projects using more tools.
+
+<br><br/>
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools: </h3>
