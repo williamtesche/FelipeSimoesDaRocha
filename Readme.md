@@ -20,7 +20,7 @@
 </a>
 
 <br>
-<br/>
+<br>
 <br>
   🌱 I’m currently learning Everything.
   
