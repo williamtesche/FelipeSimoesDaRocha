@@ -9,7 +9,7 @@
 
 
 
-![GitHub followers](https://img.shields.io/github/followers/pauloanalista?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/FelipeSimoesDaRocha?style=flat-square)
 ![Twitter Follow](https://img.shields.io/twitter/follow/I_Love_Code?style=flat-square)
 
 <br><br>
